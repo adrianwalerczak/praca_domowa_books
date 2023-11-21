@@ -1,0 +1,50 @@
+.app-container {
+    max-width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.search-form input {
+    border: 1px solid #f1f5f9;
+    border-radius: 0.125rem;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    max-width: 100%;
+}
+
+.search-form button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background: #16a34a;
+    color: #fff;
+    border: 0;
+    border-radius: 0.25rem;
+}
+
+.books-list {
+    list-style: none;
+    padding: 0;
+}
+
+.books-list li {
+    border: 1px solid #f1f5f9;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.books-list h3 {
+    font-size: 0.875rem;
+    margin: 0;
+    color: #334155;
+}
+
+
+.books-list h5 {
+    font-size: 0.5rem;
+    margin: 0;
+    color: #6b7280;
+    font-weight: normal;
+}
